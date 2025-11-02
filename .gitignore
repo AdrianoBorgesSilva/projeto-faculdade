@@ -73,8 +73,8 @@ build/
 !.env.example
 
 # Configurações (se contiverem dados sensíveis)
-application.properties
-application-*.properties
+#application.properties
+#application-*.properties
 
 # Logs e arquivos temporários
 logs/
